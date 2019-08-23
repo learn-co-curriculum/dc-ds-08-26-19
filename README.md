@@ -17,7 +17,7 @@
 |:---|:---|:---|
 | Bash & Git 101 | | |
 | Python Fundamentals | | |
-| Pythong Fundamentals pt.2 | | |
+| Python Fundamentals pt.2 | | |
 | Libraries & Numpy | | |
 | Coach Lab Review | | |
 | Pandas pt.1 | | |
