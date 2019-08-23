@@ -1,4 +1,4 @@
-# dc-ds-08-26-2019
+# DC-DS-08-26-2019
 
 ## Important links 
 
@@ -7,3 +7,73 @@
 [Blogs](https://docs.google.com/spreadsheets/d/1_htTQYrndRnM9ZdhsKnGcZqKLJ3sPcOWGold7qMhFpM/edit#gid=0)
 [Office Hours w/ Jonnel](https://calendar.google.com/calendar/selfsched?sstoken=UU5wV2d1aW1QMFVofGRlZmF1bHR8ODY0MjExZDE2YjRjNTMzMWNhNDZlODExM2NkOWI0MDg)
 [Office Hours w/ Ammar](https://calendar.google.com/calendar/selfsched?sstoken=UUpTVFpneHQ3eFZ2fGRlZmF1bHR8ODM2Y2UzYWUyMmNhOTZkNGQzNDMyN2EyMzZmMGRjZmM)
+
+## Calendar
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23039BE5&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdmOHUydWxpdGlrdGJqbnMwbm5qYTlkOGhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;mode=WEEK&amp;showTitle=1&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showDate=1&amp;title=Class%20Schedule" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+
+# Lecture Code + Recording
+# Module 1 🌱
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+# Module 2 🌿
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+# Module 3 ☘️
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+
+# Module 4 🍀
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+# Module 5 🌳
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+
+# Module 6 🦚
+| Topic | Code | Video |
+|:---|:---|:---|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
