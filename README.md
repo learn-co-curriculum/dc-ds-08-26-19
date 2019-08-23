@@ -15,13 +15,18 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
+| Bash & Git 101 | | |
+| Python Fundamentals | | |
+| Pythong Fundamentals pt.2 | | |
+| Libraries & Numpy | | |
+| Coach Lab Review | | |
+| Pandas pt.1 | | |
+| Pandas pt.2 | | |
+| Pandas Data Cleaning | | |
+| Coding Best Practices | | |
+| Visualizations w/Matplotlib | | |
+| Visualizations w/Seaborn | | |
 | | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
 
 # Module 2 🌿
 | Topic | Code | Video |
@@ -33,7 +38,6 @@
 | | | |
 | | | |
 
-
 # Module 3 ☘️
 | Topic | Code | Video |
 |:---|:---|:---|
@@ -43,8 +47,6 @@
 | | | |
 | | | |
 | | | |
-
-
 
 # Module 4 🍀
 | Topic | Code | Video |
@@ -56,7 +58,6 @@
 | | | |
 | | | |
 
-
 # Module 5 🌳
 | Topic | Code | Video |
 |:---|:---|:---|
@@ -66,7 +67,6 @@
 | | | |
 | | | |
 | | | |
-
 
 # Module 6 🦚
 | Topic | Code | Video |
