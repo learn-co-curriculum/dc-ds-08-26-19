@@ -9,7 +9,7 @@
 [Office Hours w/ Ammar](https://calendar.google.com/calendar/selfsched?sstoken=UUpTVFpneHQ3eFZ2fGRlZmF1bHR8ODM2Y2UzYWUyMmNhOTZkNGQzNDMyN2EyMzZmMGRjZmM)
 
 ## Calendar
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23039BE5&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdmOHUydWxpdGlrdGJqbnMwbm5qYTlkOGhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;mode=WEEK&amp;showTitle=1&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showDate=1&amp;title=Class%20Schedule" style="border:solid 1px #777" width="900" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23039BE5&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzdmOHUydWxpdGlrdGJqbnMwbm5qYTlkOGhnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F09300&amp;mode=WEEK&amp;showTitle=1&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0&amp;showDate=1&amp;title=Class%20Schedule" style="border-width:0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Lecture Code + Recording
 # Module 1 🌱
