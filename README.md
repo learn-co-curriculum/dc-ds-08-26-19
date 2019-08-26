@@ -15,7 +15,7 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
-| Bash & Git 101 | | |
+| Bash & Git 101 | |<a href="https://youtu.be/ZSugrX68Wsg">Bash & Git 101</a> |
 | Python Fundamentals | | |
 | Python Fundamentals pt.2 | | |
 | Libraries & Numpy | | |
