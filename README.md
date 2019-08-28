@@ -15,8 +15,9 @@
 # Module 1 🌱
 | Topic | Code | Video |
 |:---|:---|:---|
-| Bash & Git 101 | | [youtube](https://youtu.be/ZSugrX68Wsg) |
-| Python Fundamentals | | [youtube](https://youtu.be/O_-XR1nN7NM) |
+| Bash & Git 101 | n/a |[youtube](https://youtu.be/ZSugrX68Wsg)|
+| Python Fundamentals | n/a |[youtube](https://youtu.be/O_-XR1nN7NM)|
+| Bash pt.2| n/a |[youtube](https://youtu.be/YV9dt5DNW2I)|
 | Python Fundamentals pt.2 | | |
 | Libraries & Numpy | | |
 | Coach Lab Review | | |
