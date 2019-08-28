@@ -18,7 +18,7 @@
 | Bash & Git 101 | n/a |[youtube](https://youtu.be/ZSugrX68Wsg)|
 | Python Fundamentals | n/a |[youtube](https://youtu.be/O_-XR1nN7NM)|
 | Bash pt.2| n/a |[youtube](https://youtu.be/YV9dt5DNW2I)|
-| Python Fundamentals pt.2 | | |
+| Python Fundamentals pt.2 | n/a |[youtube](https://youtu.be/L0XChfPR6nk)|
 | Libraries & Numpy | | |
 | Coach Lab Review | | |
 | Pandas pt.1 | | |
