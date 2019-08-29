@@ -19,7 +19,7 @@
 | Python Fundamentals | n/a |[youtube](https://youtu.be/O_-XR1nN7NM)|
 | Bash pt.2| n/a |[youtube](https://youtu.be/YV9dt5DNW2I)|
 | Python Fundamentals pt.2 |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-3-python-2/python-2-enkeboll.ipynb)|[youtube](https://youtu.be/L0XChfPR6nk)|
-| Libraries & Numpy | | |
+| Libraries & Numpy |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/pPhchP5TzgE)|
 | Coach Lab Review | | |
 | Pandas pt.1 | | |
 | Pandas pt.2 | | |
