@@ -21,7 +21,7 @@
 | Python Fundamentals pt.2 |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-3-python-2/python-2-enkeboll.ipynb)|[youtube](https://youtu.be/L0XChfPR6nk)|
 | Libraries & Numpy |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/pPhchP5TzgE)|
 | Coach Lab Review | | |
-| Pandas pt.1 | | |
+| Pandas pt.1 | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)| [youtube](https://youtu.be/9yEIoIQ9aDQ) |
 | Pandas pt.2 | | |
 | Pandas Data Cleaning | | |
 | Coding Best Practices | | |
