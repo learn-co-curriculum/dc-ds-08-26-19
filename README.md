@@ -22,8 +22,8 @@
 | Libraries & Numpy |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/pPhchP5TzgE)|
 | Coach Lab Review | | |
 | Pandas pt.1 | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)| [youtube](https://youtu.be/9yEIoIQ9aDQ) |
-| Pandas pt.2 | | |
-| Pandas Data Cleaning | | |
+| Pandas pt.2 |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-1-pandas-2/pandas-2-manipulation-enkeboll.ipynb) |[youtube](https://youtu.be/LpA8-9jLKps) |
+| Pandas Data Cleaning |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-2-pandas-3/pandas-3-data-cleaning.ipynb) |[youtube](https://youtu.be/ONl6SgoQTeI) |
 | Coding Best Practices | | |
 | Visualizations w/Matplotlib | | |
 | Visualizations w/Seaborn | | |
