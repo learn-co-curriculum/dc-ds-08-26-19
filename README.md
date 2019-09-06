@@ -26,7 +26,7 @@
 | Pandas Data Cleaning |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-2-pandas-3/pandas-3-data-cleaning.ipynb) |[youtube](https://youtu.be/ONl6SgoQTeI) |
 | Coding Best Practices | | |
 | Visualizations w/Matplotlib |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/tree/master/module-1/week-2/day-2-matplotlib) |[youtube](https://youtu.be/Uu2Y6tXXNLM) |
-| Visualizations w/Seaborn | | |
+| Visualizations w/Seaborn |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-3-seaborn/seaborn.ipynb) |[youtube](https://youtu.be/IrtdShL8VgA) |
 | | | |
 
 # Module 2 🌿
