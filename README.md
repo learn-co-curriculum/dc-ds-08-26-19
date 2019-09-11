@@ -20,14 +20,13 @@
 | Bash pt.2| n/a |[youtube](https://youtu.be/YV9dt5DNW2I)|
 | Python Fundamentals pt.2 |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-3-python-2/python-2-enkeboll.ipynb)|[youtube](https://youtu.be/L0XChfPR6nk)|
 | Libraries & Numpy |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-4-libraries-numpy/libraries-numpy-enkeboll.ipynb)|[youtube](https://youtu.be/pPhchP5TzgE)|
-| Coach Lab Review | | |
 | Pandas pt.1 | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-1/day-5-pandas-1/pandas-1-enkeboll.ipynb)| [youtube](https://youtu.be/9yEIoIQ9aDQ) |
 | Pandas pt.2 |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-1-pandas-2/pandas-2-manipulation-enkeboll.ipynb) |[youtube](https://youtu.be/LpA8-9jLKps) |
 | Pandas Data Cleaning |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-2-pandas-3/pandas-3-data-cleaning.ipynb) |[youtube](https://youtu.be/ONl6SgoQTeI) |
 | Coding Best Practices | |[youtube](https://youtu.be/iDi0AIUTe4w) |
 | Visualizations w/Matplotlib |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/tree/master/module-1/week-2/day-2-matplotlib) |[youtube](https://youtu.be/Uu2Y6tXXNLM) |
 | Visualizations w/Seaborn |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-3-seaborn/seaborn.ipynb) |[youtube](https://youtu.be/IrtdShL8VgA) |
-| | | |
+| Coach Lab Review | |[youtube](https://www.youtube.com/watch?v=6QqO6vhzVck&feature=youtu.be)|
 
 # Module 2 🌿
 | Topic | Code | Video |
