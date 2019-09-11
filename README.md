@@ -26,7 +26,7 @@
 | Coding Best Practices | |[youtube](https://youtu.be/iDi0AIUTe4w) |
 | Visualizations w/Matplotlib |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/tree/master/module-1/week-2/day-2-matplotlib) |[youtube](https://youtu.be/Uu2Y6tXXNLM) |
 | Visualizations w/Seaborn |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/week-2/day-3-seaborn/seaborn.ipynb) |[youtube](https://youtu.be/IrtdShL8VgA) |
-| Coach Lab Review | |[youtube](https://www.youtube.com/watch?v=6QqO6vhzVck&feature=youtu.be)|
+| Coach Lab - Git Fundamentals Pt. 2 | n/a |[youtube](https://www.youtube.com/watch?v=6QqO6vhzVck&feature=youtu.be)|
 
 # Module 2 🌿
 | Topic | Code | Video |
