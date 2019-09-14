@@ -32,7 +32,7 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 | SQL Part 1|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-1/day-1-sql-pandas/sql-to-pandas.ipynb) |[youtube](https://youtu.be/vPUW12TtcbQ) |
-| | | |
+|SQL & OOP |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-1/day-2-object-oriented-programming/OOP.ipynb) |[youtube](https://youtu.be/QcMGiztTpO4) |
 | | | |
 | | | |
 | | | |
