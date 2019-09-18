@@ -35,7 +35,7 @@
 |SQL & OOP |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-1/day-2-object-oriented-programming/OOP.ipynb) |[youtube](https://youtu.be/QcMGiztTpO4) |
 |JSON, XML, & APIs|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-1-json-apis/json-api-enkeboll.ipynb)|[youtube](https://youtu.be/1u9Ub01J_as)|
 |OOP pt.2|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-1-oop-2/oop-2-enkeboll.ipynb)|[youtube](https://youtu.be/QN-c8ELy3x0)|
-|HTML, CSS, & Web Scraping | | |
+|HTML, CSS, & Web Scraping | |[youtube](https://youtu.be/x8aa84GLllI) |
 |More SQL | | |
 |No SQL & MongoDB| | |
 
