@@ -38,6 +38,7 @@
 |HTML, CSS, & Web Scraping | |[youtube](https://youtu.be/x8aa84GLllI) |
 |Web Scraping & API Coach Lab |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-2-coach-lab/lab.ipynb) | |
 |More SQL |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-3-more-sql/more-sql-enkeboll.ipynb) |[youtube](https://youtu.be/OV6y39mMGfo) |
+|Mod 1 Assessment Review||[youtube](https://youtu.be/F9R76xTo_J4)|
 |No SQL & MongoDB| | |
 
 # Module 3 ☘️
