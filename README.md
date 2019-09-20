@@ -38,7 +38,7 @@
 |HTML, CSS, & Web Scraping |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-2-web-scraping/webscraping-enkeboll.ipynb)|[youtube](https://youtu.be/x8aa84GLllI) |
 |Web Scraping & API Coach Lab |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-2-coach-lab/lab.ipynb) | |
 |More SQL |[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-3-more-sql/more-sql-enkeboll.ipynb) |[youtube](https://youtu.be/OV6y39mMGfo) |
-|Mod 1 Assessment Review||[youtube](https://youtu.be/F9R76xTo_J4)|
+|Mod 1 Assessment Review|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-1/Mod1-Assessment-Answers.ipynb)|[youtube](https://youtu.be/F9R76xTo_J4)|
 |No SQL & MongoDB|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-2/week-2/day-4-nosql-mongodb/nosql-enkeboll.ipynb)|[youtube](https://youtu.be/BgUIS4XLVP4)|
 
 # Module 3 ☘️
