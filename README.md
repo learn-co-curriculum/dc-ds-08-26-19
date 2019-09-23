@@ -44,12 +44,12 @@
 # Module 3 ☘️
 | Topic | Code | Video |
 |:---|:---|:---|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+|Set Theory & Probability| N/A |[youtube](https://youtu.be/Ap-eZGgnt9s)|
+|Distributions| | |
+|Sampling & Central Limit Theorem | | |
+|Hypothesis Testing | | |
+|Power & Effect | | |
+|A/B Testing & ANOVA | | |
 
 # Module 4 🍀
 | Topic | Code | Video |
