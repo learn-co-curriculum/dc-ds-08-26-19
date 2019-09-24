@@ -45,6 +45,7 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 |Set Theory & Probability| N/A |[youtube](https://youtu.be/Ap-eZGgnt9s)|
+|Conditional Probability| N/A |[youtube](https://youtu.be/I69JGdIG58s)| 
 |Distributions| | |
 |Sampling & Central Limit Theorem | | |
 |Hypothesis Testing | | |
