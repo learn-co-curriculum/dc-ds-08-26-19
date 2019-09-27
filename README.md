@@ -48,7 +48,8 @@
 |Conditional Probability| N/A |[youtube](https://youtu.be/I69JGdIG58s)| 
 |Distributions| | |
 |Sampling & Central Limit Theorem | | |
-|Hypothesis Testing | | |
+|Random Variable Mass Function| |[youtube](https://youtu.be/qvisXCmo8c8) |
+|Hypothesis Testing | |[youtube](https://youtu.be/0WcasTzBW9M) |
 |Power & Effect | | |
 |A/B Testing & ANOVA | | |
 
