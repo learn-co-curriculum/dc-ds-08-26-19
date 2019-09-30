@@ -50,7 +50,8 @@
 |Sampling & Central Limit Theorem | | |
 |Z test||[youtube](https://youtu.be/tBdi2R4bkAU)|
 |Random Variable Mass Function| |[youtube](https://youtu.be/qvisXCmo8c8) |
-|Hypothesis Testing | |[youtube](https://youtu.be/0WcasTzBW9M) |
+|Hypothesis Testing| |[youtube](https://youtu.be/0WcasTzBW9M)|
+|Difference of Means||[youtube](https://youtu.be/m2X8YNDqzl8)|
 |Power & Effect | | |
 |A/B Testing & ANOVA | | |
 
