@@ -52,7 +52,7 @@
 |Random Variable Mass Function| |[youtube](https://youtu.be/qvisXCmo8c8) |
 |Hypothesis Testing| |[youtube](https://youtu.be/0WcasTzBW9M)|
 |Difference of Means||[youtube](https://youtu.be/m2X8YNDqzl8)|
-|Power & Effect | | |
+|Power & Effect | |[youtube](https://youtu.be/dXq6-srt5k0)|
 |A/B Testing & ANOVA | | |
 
 # Module 4 🍀
