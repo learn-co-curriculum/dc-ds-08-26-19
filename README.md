@@ -53,7 +53,7 @@
 |Hypothesis Testing| |[youtube](https://youtu.be/0WcasTzBW9M)|
 |Difference of Means||[youtube](https://youtu.be/m2X8YNDqzl8)|
 |Power & Effect | |[youtube](https://youtu.be/dXq6-srt5k0)|
-|A/B Testing & ANOVA | | |
+|A/B Testing & ANOVA | |[youtube](https://youtu.be/yILPEZQ2QXU)|
 
 # Module 4 🍀
 | Topic | Code | Video |
