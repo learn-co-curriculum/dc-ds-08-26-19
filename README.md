@@ -44,8 +44,8 @@
 # Module 3 ☘️
 | Topic | Code | Video |
 |:---|:---|:---|
-|Set Theory & Probability| N/A |[youtube](https://youtu.be/Ap-eZGgnt9s)|
-|Conditional Probability| N/A |[youtube](https://youtu.be/I69JGdIG58s)| 
+|Set Theory & Probability|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day1/probability/prob_perm_comb_my_edition.ipynb)|[youtube](https://youtu.be/Ap-eZGgnt9s)|
+|Conditional Probability| |[youtube](https://youtu.be/I69JGdIG58s)| 
 |Distributions| | |
 |Sampling & Central Limit Theorem | | |
 |Z test||[youtube](https://youtu.be/tBdi2R4bkAU)|
