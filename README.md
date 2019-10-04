@@ -54,6 +54,7 @@
 |Difference of Means||[youtube](https://youtu.be/m2X8YNDqzl8)|
 |Power & Effect | |[youtube](https://youtu.be/dXq6-srt5k0)|
 |A/B Testing & ANOVA | |[youtube](https://youtu.be/yILPEZQ2QXU)|
+|R2 residuals||[youtube](https://youtu.be/bnQke1UnDL4)|
 
 # Module 4 🍀
 | Topic | Code | Video |
