@@ -59,7 +59,7 @@
 # Module 4 🍀
 | Topic | Code | Video |
 |:---|:---|:---|
-| | | |
+|Multiple Linear Regression| |[youtube](https://youtu.be/jCD3iUqRIBk)|
 | | | |
 | | | |
 | | | |
