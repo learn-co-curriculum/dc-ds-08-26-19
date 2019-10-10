@@ -60,7 +60,7 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 |Multiple Linear Regression| |[youtube](https://youtu.be/jCD3iUqRIBk)|
-| | | |
+|Mod 2 Assessment Review| |[youtube](https://youtu.be/KqQVfuBeSho)|
 | | | |
 | | | |
 | | | |
