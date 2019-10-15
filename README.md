@@ -61,7 +61,7 @@
 |:---|:---|:---|
 |Multiple Linear Regression| |[youtube](https://youtu.be/jCD3iUqRIBk)|
 |Mod 2 Assessment Review| |[youtube](https://youtu.be/KqQVfuBeSho)|
-| | | |
+|Feature Selection Assumptions of LR| | [youtube](https://youtu.be/DpoNTXWxF_Q) |
 | | | |
 | | | |
 | | | |
