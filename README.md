@@ -62,8 +62,8 @@
 |Multiple Linear Regression| |[youtube](https://youtu.be/jCD3iUqRIBk)|
 |Mod 2 Assessment Review| |[youtube](https://youtu.be/KqQVfuBeSho)|
 |Feature Selection Assumptions of LR| | [youtube](https://youtu.be/DpoNTXWxF_Q) |
-| | | |
-| | | |
+|Ridge and Lasso | |[youtube](https://youtu.be/1WH2ZBA9HCo)|
+|Matrix Alg. and Gradient Descent | |[youtube](https://youtu.be/-D0qus4dtic)|
 | | | |
 
 # Module 5 🌳
