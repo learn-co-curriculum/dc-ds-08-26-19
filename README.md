@@ -64,7 +64,7 @@
 |Feature Selection Assumptions of LR| | [youtube](https://youtu.be/DpoNTXWxF_Q) |
 |Ridge and Lasso | |[youtube](https://youtu.be/1WH2ZBA9HCo)|
 |Matrix Alg. and Gradient Descent | |[youtube](https://youtu.be/-D0qus4dtic)|
-| | | |
+|Logistic Regression | |[youtube](https://youtu.be/AcJuiJJ0I60) |
 
 # Module 5 🌳
 | Topic | Code | Video |
