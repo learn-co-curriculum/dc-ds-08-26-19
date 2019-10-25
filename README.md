@@ -69,7 +69,7 @@
 # Module 5 🌳
 | Topic | Code | Video |
 |:---|:---|:---|
-| KNN | | |
+| KNN | | [youtuvbe](https://youtu.be/4x_Czu0Pvho) |
 | | | |
 | | | |
 | | | |
