@@ -70,7 +70,7 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 | KNN | | [youtuvbe](https://youtu.be/4x_Czu0Pvho) |
-| | | |
+| Decision Trees| | [youtube](https://youtu.be/CZN9ydbo7nY) |
 | | | |
 | | | |
 | | | |
