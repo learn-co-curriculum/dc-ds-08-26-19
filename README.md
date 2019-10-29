@@ -71,7 +71,7 @@
 |:---|:---|:---|
 | KNN | | [youtube](https://youtu.be/4x_Czu0Pvho) |
 | Decision Trees| | [youtube](https://youtu.be/CZN9ydbo7nY) |
-| | | |
+| Random Forest | | [youtube](https://youtu.be/zBsr-08Y5bI) |
 | | | |
 | | | |
 | | | |
