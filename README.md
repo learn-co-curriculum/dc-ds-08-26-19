@@ -46,14 +46,14 @@
 |:---|:---|:---|
 |Set Theory & Probability|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day1/probability/prob_perm_comb_my_edition.ipynb)|[youtube](https://youtu.be/Ap-eZGgnt9s)|
 |Conditional Probability| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day2/conditional_probability_Random_variables/conditional_probability.ipynb) |[youtube](https://youtu.be/I69JGdIG58s)| 
-|Distributions| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day4/distributions/Distributions.ipynb) | |
-|Sampling & Central Limit Theorem | [solution]() | |
+|Distributions|  | |
+|Sampling & Central Limit Theorem |  | |
 |Z test|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/one_sample_z_test/one_sample_z_test.ipynb) |[youtube](https://youtu.be/tBdi2R4bkAU)|
-|Random Variable Mass Function|[solution]() |[youtube](https://youtu.be/qvisXCmo8c8) |
+|Random Variable Mass Function|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day4/distributions/Distributions.ipynb) |[youtube](https://youtu.be/qvisXCmo8c8) |
 |Hypothesis Testing| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/hypothesis_testing/hypothesis_testing.ipynb) |[youtube](https://youtu.be/0WcasTzBW9M)|
 |Difference of Means| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day1/two_sample_t_test/difference_of_means_from_two_populations.ipynb) |[youtube](https://youtu.be/m2X8YNDqzl8)|
-|Power & Effect | [solution]() |[youtube](https://youtu.be/dXq6-srt5k0)|
-|A/B Testing & ANOVA | [solution]() |[youtube](https://youtu.be/yILPEZQ2QXU)|
+|Power & Effect | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day2/Effect_Size_and_Power/effect_size_and_power.ipynb) |[youtube](https://youtu.be/dXq6-srt5k0)|
+|A/B Testing & ANOVA | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day3/Anova-before.ipynb) |[youtube](https://youtu.be/yILPEZQ2QXU)|
 |R2 residuals| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day5/linear_regression/rsquared.png) |[youtube](https://youtu.be/bnQke1UnDL4)|
 
 # Module 4 🍀
