@@ -51,10 +51,10 @@
 |Z test|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/one_sample_z_test/one_sample_z_test.ipynb) |[youtube](https://youtu.be/tBdi2R4bkAU)|
 |Random Variable Mass Function|[solution]() |[youtube](https://youtu.be/qvisXCmo8c8) |
 |Hypothesis Testing| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/hypothesis_testing/hypothesis_testing.ipynb) |[youtube](https://youtu.be/0WcasTzBW9M)|
-|Difference of Means| [solution]() |[youtube](https://youtu.be/m2X8YNDqzl8)|
+|Difference of Means| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day1/two_sample_t_test/difference_of_means_from_two_populations.ipynb) |[youtube](https://youtu.be/m2X8YNDqzl8)|
 |Power & Effect | [solution]() |[youtube](https://youtu.be/dXq6-srt5k0)|
 |A/B Testing & ANOVA | [solution]() |[youtube](https://youtu.be/yILPEZQ2QXU)|
-|R2 residuals| [solution]() |[youtube](https://youtu.be/bnQke1UnDL4)|
+|R2 residuals| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_2/day5/linear_regression/rsquared.png) |[youtube](https://youtu.be/bnQke1UnDL4)|
 
 # Module 4 🍀
 | Topic | Code | Video |
