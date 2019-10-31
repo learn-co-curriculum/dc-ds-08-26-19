@@ -59,22 +59,22 @@
 # Module 4 🍀
 | Topic | Code | Video |
 |:---|:---|:---|
-| Multiple Linear Regression | | [youtube](https://youtu.be/jCD3iUqRIBk) |
+| Multiple Linear Regression | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-4/10-10-Day-1/multi_linear_regression_categorical_variables/learn_co_multiple_linear_regression.ipynb) | [youtube](https://youtu.be/jCD3iUqRIBk) |
 | Mod 2 Assessment Review | | [youtube](https://youtu.be/KqQVfuBeSho) |
-| Feature Selection Assumptions of LR | | [youtube](https://youtu.be/DpoNTXWxF_Q) |
-| Ridge and Lasso | | [youtube](https://youtu.be/1WH2ZBA9HCo) |
-| Matrix Alg. and Gradient Descent | | [youtube](https://youtu.be/-D0qus4dtic) |
-| Logistic Regression | | [youtube](https://youtu.be/AcJuiJJ0I60) |
+| Feature Selection Assumptions of LR | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-4/14-10-Day-2/feature_selection/model_diagnosis.ipynb) | [youtube](https://youtu.be/DpoNTXWxF_Q) |
+| Ridge and Lasso | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-4/15-10-Day-3/Bias-Variance-Ridge-Lasso/Bias-Variance-Ridge-Lasso.ipynb) | [youtube](https://youtu.be/1WH2ZBA9HCo) |
+| Matrix Alg. and Gradient Descent | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-4/14-10-Day-2/feature_selection/matrix_algebra_with_numpy.ipynb) | [youtube](https://youtu.be/-D0qus4dtic) |
+| Logistic Regression | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-4/17-10-Day-5/Logistic%20Regression.ipynb) | [youtube](https://youtu.be/AcJuiJJ0I60) |
 
 # Module 5 🌳
 | Topic | Code | Video |
 |:---|:---|:---|
-| KNN | | [youtube](https://youtu.be/4x_Czu0Pvho) |
-| Decision Trees| | [youtube](https://youtu.be/CZN9ydbo7nY) |
-| Random Forest | | [youtube](https://youtu.be/zBsr-08Y5bI) |
-| SVM | |[part 1](https://youtu.be/lZ4z0FHnZ9U) [part 2](https://youtu.be/nmEA1rRjQL4) |
-| Pipeline Boosting | | [youtube](https://youtu.be/tMx8fPuWJ1s) |
-| Clustering | | [youtube](https://youtu.be/wcQe-fvI8dE) |
+| KNN | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-1%20-%20KNN/KNN/KNN.ipynb)| [youtube](https://youtu.be/4x_Czu0Pvho) |
+| Decision Trees| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-2%20-%20Decision_trees/day-2-decision-trees/decision-trees.ipynb) | [youtube](https://youtu.be/CZN9ydbo7nY) |
+| Random Forest | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-3-random-forest/randomforest.ipynb) | [youtube](https://youtu.be/zBsr-08Y5bI) |
+| SVM | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-4-SVM/Support_Vector_Machines.ipynb) |[part 1](https://youtu.be/lZ4z0FHnZ9U) [part 2](https://youtu.be/nmEA1rRjQL4) |
+| Pipeline Boosting | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-5-pipelines-boosting/boosting/Boosting_and_pipelines.ipynb) | [youtube](https://youtu.be/tMx8fPuWJ1s) |
+| Clustering | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-6-clustering/clustering/clustering_algorithms.ipynb) | [youtube](https://youtu.be/wcQe-fvI8dE) |
 
 # Module 6 🦚
 | Topic | Code | Video |
