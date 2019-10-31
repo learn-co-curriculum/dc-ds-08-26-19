@@ -45,16 +45,16 @@
 | Topic | Code | Video |
 |:---|:---|:---|
 |Set Theory & Probability|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day1/probability/prob_perm_comb_my_edition.ipynb)|[youtube](https://youtu.be/Ap-eZGgnt9s)|
-|Conditional Probability| |[youtube](https://youtu.be/I69JGdIG58s)| 
-|Distributions| | |
-|Sampling & Central Limit Theorem | | |
-|Z test||[youtube](https://youtu.be/tBdi2R4bkAU)|
-|Random Variable Mass Function| |[youtube](https://youtu.be/qvisXCmo8c8) |
-|Hypothesis Testing| |[youtube](https://youtu.be/0WcasTzBW9M)|
-|Difference of Means||[youtube](https://youtu.be/m2X8YNDqzl8)|
-|Power & Effect | |[youtube](https://youtu.be/dXq6-srt5k0)|
-|A/B Testing & ANOVA | |[youtube](https://youtu.be/yILPEZQ2QXU)|
-|R2 residuals||[youtube](https://youtu.be/bnQke1UnDL4)|
+|Conditional Probability| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day2/conditional_probability_Random_variables/conditional_probability.ipynb) |[youtube](https://youtu.be/I69JGdIG58s)| 
+|Distributions| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day4/distributions/Distributions.ipynb) | |
+|Sampling & Central Limit Theorem | [solution]() | |
+|Z test|[solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/one_sample_z_test/one_sample_z_test.ipynb) |[youtube](https://youtu.be/tBdi2R4bkAU)|
+|Random Variable Mass Function|[solution]() |[youtube](https://youtu.be/qvisXCmo8c8) |
+|Hypothesis Testing| [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/module-3/week_1/day5/hypothesis_testing/hypothesis_testing.ipynb) |[youtube](https://youtu.be/0WcasTzBW9M)|
+|Difference of Means| [solution]() |[youtube](https://youtu.be/m2X8YNDqzl8)|
+|Power & Effect | [solution]() |[youtube](https://youtu.be/dXq6-srt5k0)|
+|A/B Testing & ANOVA | [solution]() |[youtube](https://youtu.be/yILPEZQ2QXU)|
+|R2 residuals| [solution]() |[youtube](https://youtu.be/bnQke1UnDL4)|
 
 # Module 4 🍀
 | Topic | Code | Video |
