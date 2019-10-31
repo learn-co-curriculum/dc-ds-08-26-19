@@ -73,8 +73,8 @@
 | Decision Trees| | [youtube](https://youtu.be/CZN9ydbo7nY) |
 | Random Forest | | [youtube](https://youtu.be/zBsr-08Y5bI) |
 | SVM | |[part 1](https://youtu.be/lZ4z0FHnZ9U) [part 2](https://youtu.be/nmEA1rRjQL4) |
-| | | |
-| | | |
+| Pipeline Boosting | | [youtube](https://youtu.be/tMx8fPuWJ1s) |
+| Clustering | | [youtube](https://youtu.be/wcQe-fvI8dE) |
 
 # Module 6 🦚
 | Topic | Code | Video |
