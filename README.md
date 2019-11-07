@@ -75,6 +75,7 @@
 | SVM | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-4-SVM/Support_Vector_Machines.ipynb) |[part 1](https://youtu.be/lZ4z0FHnZ9U) [part 2](https://youtu.be/nmEA1rRjQL4) |
 | Pipeline Boosting | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-5-pipelines-boosting/boosting/Boosting_and_pipelines.ipynb) | [youtube](https://youtu.be/tMx8fPuWJ1s) |
 | Clustering | [solution](https://github.com/learn-co-students/dc-ds-08-26-19/blob/master/Module-5/day-6-clustering/clustering/clustering_algorithms.ipynb) | [youtube](https://youtu.be/wcQe-fvI8dE) |
+| Hadoop & Spark | | [youtube](https://www.youtube.com/watch?v=VouyA2vAjCs) |
 
 # Module 6 🦚
 | Topic | Code | Video |
