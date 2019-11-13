@@ -82,7 +82,7 @@
 |:---|:---|:---|
 | Networks | | [youtube](https://www.youtube.com/watch?v=7aTx0iDBTEE) |
 | NLP part 1 | | [youtube](https://www.youtube.com/watch?v=8kP6BKl9S7U) |
-| NLP part 2 | | |
+| NLP part 2 | | [youtube](https://youtu.be/A5BQVu-hUoA) |
 | | | |
 | | | |
 | | | |
