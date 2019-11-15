@@ -83,6 +83,6 @@
 | Networks | | [youtube](https://www.youtube.com/watch?v=7aTx0iDBTEE) |
 | NLP part 1 | | [youtube](https://www.youtube.com/watch?v=8kP6BKl9S7U) |
 | NLP part 2 | | [youtube](https://youtu.be/A5BQVu-hUoA) |
-| | | |
-| | | |
-| | | |
+| AWS | | [youtube](https://www.youtube.com/watch?v=g-W7D_l_GOs) |
+| Neural Nets part 1 | | [youtube](https://www.youtube.com/watch?v=dOOD-BytvE4) |
+| Neural Nets part 2 | | |
